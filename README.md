@@ -5,3 +5,7 @@ I am playing around with markdown.
 ```python
 x = 5
 ```
+
+```java
+List<String> myList = new ArrayList<>();
+```

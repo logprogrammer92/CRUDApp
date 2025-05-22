@@ -9,3 +9,8 @@ x = 5
 ```java
 List<String> myList = new ArrayList<>();
 ```
+
+## Playing with emojis
+:rage:
+:tired_face:
+:green_heart:
